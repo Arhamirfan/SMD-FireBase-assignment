@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirebaseAssignment</string>
+    <string name="create_login_update_delete">Search, Create, Update, Delete</string>
+    <string name="firebase_crud_assignment">Firebase CRUD Assignment</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_cnic">Enter CNIC</string>
+    <string name="search">SEARCH</string>
+    <string name="register">REGISTER</string>
+    <string name="cgpa">CGPA</string>
+    <string name="semester">Semester</string>
+    <string name="age">AGE</string>
+    <string name="cnic">CNIC</string>
+    <string name="name">Name</string>
+    <string name="register_data_to_firebase">Register Data To Firebase</string>
+    <string name="space" />
+    <string name="recycler_view">Recycler View</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+</resources>
